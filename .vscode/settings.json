@@ -1,6 +1,6 @@
 {
     "favorites.resources": [
         "app/controllers",
-        "app/views/layouts"
+        "app/views"
     ]
 }
